@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+#logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+#logo img{
+    max-height: 10rem;
+    max-width: 10rem;
+}
+
+#search{
+    margin-top: 2rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
